@@ -1,4 +1,5 @@
 # Docker for Enterprise Operations
+
 ## Final Project
 
 This is a simple web application displaying a photo album of stock photos.
